@@ -174,19 +174,13 @@ cython_debug/
 .pypirc
 
 ### --- CUSTOM ----
-data/NTU60/new*
-data/NTU60/texts
-data/NTU60/splits
-data/NTU120/new*
-data/NTU120/texts
-data/NTU120/splits
 data/HumanML3D/new*
 data/HumanML3D/texts
-data/HumanML3D/splits
+data/HumanML3D/splits/synth
+
 data/NTU-VIBE/new*
 data/NTU-VIBE/texts
-data/NTU-VIBE/splits
-data/NTU-VIBE-RAW
+data/NTU-VIBE/splits/synth
 
 external/pyskl/logs
 external/pyskl/work_dirs
@@ -195,7 +189,6 @@ external/motion-diffusion-model/save
 external/motion-diffusion-model/wandb
 external/motion-diffusion-model/visualize/media
 
-*.gif
 *.mp4
 *.pt
 *.pkl
