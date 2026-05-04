@@ -47,7 +47,7 @@ KineMIC/
 
 | MDM | KineMIC (Ours) |
 |---|---|
-|![MDM example](/KineMIC/media/mdm_gen_example.gif)|![Ours example](/KineMIC/media/kinemic_gen_example.gif)|
+|![MDM example](media/mdm_gen_example.gif)|![Ours example](media/kinemic_gen_example.gif)|
 
 <br>
 
