@@ -1,0 +1,1 @@
+a person does a side kick.#a/DET person/NOUN do/VERB a/DET side/NOUN kick/NOUN#0.0#0.0
