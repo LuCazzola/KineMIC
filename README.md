@@ -1,7 +1,6 @@
 <div align="center">
 
-<h1>KineMIC</h1>
-<h3><em>Kinetic Mining in Context: Few-Shot Action Synthesis via Text-to-Motion Distillation</em></h3>
+<h1>Kinetic Mining in Context: Few-Shot Action Synthesis via Text-to-Motion Distillation</h1>
 
 <br>
 
@@ -11,7 +10,7 @@
 
 <br>
 
-*Official implementation — ICPR 2026 main conference proceedings*
+*Official implementation — 28th International Conference on Pattern Recognition (ICPR 2026) main conference proceedings*
 
 </div>
 
