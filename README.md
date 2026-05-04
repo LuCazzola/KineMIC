@@ -45,6 +45,10 @@ KineMIC/
 | **Sampling** | [docs/sample.md](docs/sample.md) — motion synthesis, synthetic dataset generation |
 | **Other** | [docs/other.md](docs/other.md) — few-shot split tools, ST-GCN evaluator, misc utilities |
 
+| MDM | KineMIC (Ours) |
+|---|---|
+|![MDM example](/KineMIC/media/mdm_gen_example.gif)|![Ours example](/KineMIC/media/kinemic_gen_example.gif)|
+
 <br>
 
 ## Citation
