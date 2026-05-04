@@ -10,7 +10,7 @@
 
 <br>
 
-*Official implementation — 28th International Conference on Pattern Recognition (ICPR 2026) main conference proceedings*
+*28th International Conference on Pattern Recognition (ICPR 2026) — main conference proceedings*
 
 </div>
 
