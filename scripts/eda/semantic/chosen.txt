@@ -1,0 +1,7 @@
+rank  action_id          action_label            crowding_score
+  3      22         a person waves their hand.     0.916557   
+  7      23         a person kicks something.      0.911215
+  20     7          a person sits down.            0.891292
+  35     0          a person drinks water.         0.869322
+  43     40         a person sneezes or coughs.    0.849527
+  44     19         a person puts on a hat.        0.847278

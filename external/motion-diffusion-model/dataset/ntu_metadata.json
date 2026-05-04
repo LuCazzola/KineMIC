@@ -1,0 +1,965 @@
+{
+    "groups" : ["daily_actions", "medical_conditions", "mutual_actions"],
+    "actions" : [
+        {
+            "action": "drink water",
+            "tag" : "A001",
+            "group" : "daily_actions",
+            "captions": [
+                "A person drinks water."
+            ]
+        },
+        {
+            "action": "eat meal",
+            "tag" : "A002",
+            "group" : "daily_actions",
+            "captions": [
+                "A person eats a meal."
+            ]
+        },
+        {
+            "action": "brush teeth",
+            "tag" : "A003",
+            "group" : "daily_actions",
+            "captions": [
+                "A person brushes their teeth."
+            ]
+        },
+        {
+            "action": "brush hair",
+            "tag" : "A004",
+            "group" : "daily_actions",
+            "captions": [
+                "A person brushes their hair."
+            ]
+        },
+        {
+            "action": "drop",
+            "tag" : "A005",
+            "group" : "daily_actions",
+            "captions": [
+                "A person drops something."
+            ]
+        },
+        {
+            "action": "pick up",
+            "tag" : "A006",
+            "group" : "daily_actions",
+            "captions": [
+                "A person picks something up."
+            ]
+        },
+        {
+            "action": "throw",
+            "tag" : "A007",
+            "group" : "daily_actions",
+            "captions": [
+                "A person throws something."
+            ]
+        },
+        {
+            "action": "sit down",
+            "tag" : "A008",
+            "group" : "daily_actions",
+            "captions": [
+                "A person sits down."
+            ]
+        },
+        {
+            "action": "stand up",
+            "tag" : "A009",
+            "group" : "daily_actions",
+            "captions": [
+                "A person stands up."
+            ]
+        },
+        {
+            "action": "clapping",
+            "tag" : "A010",
+            "group" : "daily_actions",
+            "captions": [
+                "A person claps their hands."
+            ]
+        },
+        {
+            "action": "reading",
+            "tag" : "A011",
+            "group" : "daily_actions",
+            "captions": [
+                "A person reads something."
+            ]
+        },
+        {
+            "action": "writing",
+            "tag" : "A012",
+            "group" : "daily_actions",
+            "captions": [
+                "A person writes something."
+            ]
+        },
+        {
+            "action": "tear up paper",
+            "tag" : "A013",
+            "group" : "daily_actions",
+            "captions": [
+                "A person tears up paper."
+            ]
+        },
+        {
+            "action": "put on jacket",
+            "tag" : "A014",
+            "group" : "daily_actions",
+            "captions": [
+                "A person puts on a jacket."
+            ]
+        },
+        {
+            "action": "take off jacket",
+            "tag" : "A015",
+            "group" : "daily_actions",
+            "captions": [
+                "A person takes off a jacket."
+            ]
+        },
+        {
+            "action": "put on a shoe",
+            "tag" : "A016",
+            "group" : "daily_actions",
+            "captions": [
+                "A person puts on a shoe."
+            ]
+        },
+        {
+            "action": "take off a shoe",
+            "tag" : "A017",
+            "group" : "daily_actions",
+            "captions": [
+                "A person takes off a shoe."
+            ]
+        },
+        {
+            "action": "put on glasses",
+            "tag" : "A018",
+            "group" : "daily_actions",
+            "captions": [
+                "A person puts on glasses."
+            ]
+        },
+        {
+            "action": "take off glasses",
+            "tag" : "A019",
+            "group" : "daily_actions",
+            "captions": [
+                "A person takes off glasses."
+            ]
+        },
+        {
+            "action": "put on a hat/cap",
+            "tag" : "A020",
+            "group" : "daily_actions",
+            "captions": [
+                "A person puts on a hat."
+            ]
+        },
+        {
+            "action": "take off a hat/cap",
+            "tag" : "A021",
+            "group" : "daily_actions",
+            "captions": [
+                "A person takes off a hat."
+            ]
+        },
+        {
+            "action": "cheer up",
+            "tag" : "A022",
+            "group" : "daily_actions",
+            "captions": [
+                "A person cheers up."
+            ]
+        },
+        {
+            "action": "hand waving",
+            "tag" : "A023",
+            "group" : "daily_actions",
+            "captions": [
+                "A person waves their hand."
+            ]
+        },
+        {
+            "action": "kicking something",
+            "tag" : "A024",
+            "group" : "daily_actions",
+            "captions": [
+                "A person kicks something."
+            ]
+        },
+        {
+            "action": "reach into pocket",
+            "tag" : "A025",
+            "group" : "daily_actions",
+            "captions": [
+                "A person reaches into their pocket."
+            ]
+        },
+        {
+            "action": "hopping",
+            "tag" : "A026",
+            "group" : "daily_actions",
+            "captions": [
+                "A person hops."
+            ]
+        },
+        {
+            "action": "jump up",
+            "tag" : "A027",
+            "group" : "daily_actions",
+            "captions": [
+                "A person jumps up."
+            ]
+        },
+        {
+            "action": "phone call",
+            "tag" : "A028",
+            "group" : "daily_actions",
+            "captions": [
+                "A person makes a phone call."
+            ]
+        },
+        {
+            "action": "play with phone/tablet",
+            "tag" : "A029",
+            "group" : "daily_actions",
+            "captions": [
+                "A person plays with their phone."
+            ]
+        },
+        {
+            "action": "type on a keyboard",
+            "tag" : "A030",
+            "group" : "daily_actions",
+            "captions": [
+                "A person types on a keyboard."
+            ]
+        },
+        {
+            "action": "point to something",
+            "tag" : "A031",
+            "group" : "daily_actions",
+            "captions": [
+                "A person points to something."
+            ]
+        },
+        {
+            "action": "taking a selfie",
+            "tag" : "A032",
+            "group" : "daily_actions",
+            "captions": [
+                "A person takes a selfie."
+            ]
+        },
+        {
+            "action": "check time (from watch)",
+            "tag" : "A033",
+            "group" : "daily_actions",
+            "captions": [
+                "A person checks their watch."
+            ]
+        },
+        {
+            "action": "rub two hands",
+            "tag" : "A034",
+            "group" : "daily_actions",
+            "captions": [
+                "A person rubs their hands together."
+            ]
+        },
+        {
+            "action": "nod head/bow",
+            "tag" : "A035",
+            "group" : "daily_actions",
+            "captions": [
+                "A person nods their head."
+            ]
+        },
+        {
+            "action": "shake head",
+            "tag" : "A036",
+            "group" : "daily_actions",
+            "captions": [
+                "A person shakes their head."
+            ]
+        },
+        {
+            "action": "wipe face",
+            "tag" : "A037",
+            "group" : "daily_actions",
+            "captions": [
+                "A person wipes their face."
+            ]
+        },
+        {
+            "action": "salute",
+            "tag" : "A038",
+            "group" : "daily_actions",
+            "captions": [
+                "A person salutes."
+            ]
+        },
+        {
+            "action": "put palms together",
+            "tag" : "A039",
+            "group" : "daily_actions",
+            "captions": [
+                "A person puts their palms together."
+            ]
+        },
+        {
+            "action": "cross hands in front",
+            "tag" : "A040",
+            "group" : "daily_actions",
+            "captions": [
+                "A person crosses their hands in front."
+            ]
+        },
+        {
+            "action": "sneeze/cough",
+            "tag" : "A041",
+            "group" : "medical_conditions",
+            "captions": [
+                "A person sneezes or coughs."
+            ]
+        },
+        {
+            "action": "staggering",
+            "tag" : "A042",
+            "group" : "medical_conditions",
+            "captions": [
+                "A person staggers."
+            ]
+        },
+        {
+            "action": "falling down",
+            "tag" : "A043",
+            "group" : "medical_conditions",
+            "captions": [
+                "A person falls down."
+            ]
+        },
+        {
+            "action": "headache",
+            "tag" : "A044",
+            "group" : "medical_conditions",
+            "captions": [
+                "A person has a headache."
+            ]
+        },
+        {
+            "action": "chest pain",
+            "tag" : "A045",
+            "group" : "medical_conditions",
+            "captions": [
+                "A person has chest pain."
+            ]
+        },
+        {
+            "action": "back pain",
+            "tag" : "A046",
+            "group" : "medical_conditions",
+            "captions": [
+                "A person has back pain."
+            ]
+        },
+        {
+            "action": "neck pain",
+            "tag" : "A047",
+            "group" : "medical_conditions",
+            "captions": [
+                "A person has neck pain."
+            ]
+        },
+        {
+            "action": "nausea/vomiting",
+            "tag" : "A048",
+            "group" : "medical_conditions",
+            "captions": [
+                "A person feels nauseous."
+            ]
+        },
+        {
+            "action": "fan self",
+            "tag" : "A049",
+            "group" : "medical_conditions",
+            "captions": [
+                "A person fans themselves."
+            ]
+        },
+        {
+            "action": "punch/slap",
+            "tag" : "A050",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person punches or slaps."
+            ]
+        },
+        {
+            "action": "kicking",
+            "tag" : "A051",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person kicks."
+            ]
+        },
+        {
+            "action": "pushing",
+            "tag" : "A052",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person pushes."
+            ]
+        },
+        {
+            "action": "pat on back",
+            "tag" : "A053",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person pats someone on the back."
+            ]
+        },
+        {
+            "action": "point finger",
+            "tag" : "A054",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person points their finger."
+            ]
+        },
+        {
+            "action": "hugging",
+            "tag" : "A055",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person hugs someone."
+            ]
+        },
+        {
+            "action": "giving object",
+            "tag" : "A056",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person gives an object to someone."
+            ]
+        },
+        {
+            "action": "touch pocket",
+            "tag" : "A057",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person touches their pocket."
+            ]
+        },
+        {
+            "action": "shaking hands",
+            "tag" : "A058",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person shakes hands with someone."
+            ]
+        },
+        {
+            "action": "walking towards",
+            "tag" : "A059",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person walks towards someone."
+            ]
+        },
+        {
+            "action": "walking apart",
+            "tag" : "A060",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person walks away."
+            ]
+        },
+        {
+            "action": "put on headphone",
+            "tag" : "A061",
+            "group" : "daily_actions",
+            "captions": [
+                "A person puts on headphones."
+            ]
+        },
+        {
+            "action": "take off headphone",
+            "tag" : "A062",
+            "group" : "daily_actions",
+            "captions": [
+                "A person takes off headphones."
+            ]
+        },
+        {
+            "action": "shoot at basket",
+            "tag" : "A063",
+            "group" : "daily_actions",
+            "captions": [
+                "A person shoots at a basketball hoop."
+            ]
+        },
+        {
+            "action": "bounce ball",
+            "tag" : "A064",
+            "group" : "daily_actions",
+            "captions": [
+                "A person bounces a ball."
+            ]
+        },
+        {
+            "action": "tennis bat swing",
+            "tag" : "A065",
+            "group" : "daily_actions",
+            "captions": [
+                "A person swings a tennis racket."
+            ]
+        },
+        {
+            "action": "juggle table tennis ball",
+            "tag" : "A066",
+            "group" : "daily_actions",
+            "captions": [
+                "A person juggles a ping pong ball."
+            ]
+        },
+        {
+            "action": "hush",
+            "tag" : "A067",
+            "group" : "daily_actions",
+            "captions": [
+                "A person makes a hushing gesture."
+            ]
+        },
+        {
+            "action": "flick hair",
+            "tag" : "A068",
+            "group" : "daily_actions",
+            "captions": [
+                "A person flicks their hair."
+            ]
+        },
+        {
+            "action": "thumb up",
+            "tag" : "A069",
+            "group" : "daily_actions",
+            "captions": [
+                "A person gives a thumbs up."
+            ]
+        },
+        {
+            "action": "thumb down",
+            "tag" : "A070",
+            "group" : "daily_actions",
+            "captions": [
+                "A person gives a thumbs down."
+            ]
+        },
+        {
+            "action": "make OK sign",
+            "tag" : "A071",
+            "group" : "daily_actions",
+            "captions": [
+                "A person makes an OK sign."
+            ]
+        },
+        {
+            "action": "make victory sign",
+            "tag" : "A072",
+            "group" : "daily_actions",
+            "captions": [
+                "A person makes a victory sign."
+            ]
+        },
+        {
+            "action": "staple book",
+            "tag" : "A073",
+            "group" : "daily_actions",
+            "captions": [
+                "A person staples a book."
+            ]
+        },
+        {
+            "action": "counting money",
+            "tag" : "A074",
+            "group" : "daily_actions",
+            "captions": [
+                "A person counts money."
+            ]
+        },
+        {
+            "action": "cutting nails",
+            "tag" : "A075",
+            "group" : "daily_actions",
+            "captions": [
+                "A person cuts their nails."
+            ]
+        },
+        {
+            "action": "cutting paper",
+            "tag" : "A076",
+            "group" : "daily_actions",
+            "captions": [
+                "A person cuts paper."
+            ]
+        },
+        {
+            "action": "snap fingers",
+            "tag" : "A077",
+            "group" : "daily_actions",
+            "captions": [
+                "A person snaps their fingers."
+            ]
+        },
+        {
+            "action": "open bottle",
+            "tag" : "A078",
+            "group" : "daily_actions",
+            "captions": [
+                "A person opens a bottle."
+            ]
+        },
+        {
+            "action": "sniff/smell",
+            "tag" : "A079",
+            "group" : "daily_actions",
+            "captions": [
+                "A person sniffs or smells something."
+            ]
+        },
+        {
+            "action": "squat down",
+            "tag" : "A080",
+            "group" : "daily_actions",
+            "captions": [
+                "A person squats down."
+            ]
+        },
+        {
+            "action": "toss a coin",
+            "tag" : "A081",
+            "group" : "daily_actions",
+            "captions": [
+                "A person tosses a coin."
+            ]
+        },
+        {
+            "action": "fold paper",
+            "tag" : "A082",
+            "group" : "daily_actions",
+            "captions": [
+                "A person folds paper."
+            ]
+        },
+        {
+            "action": "ball up paper",
+            "tag" : "A083",
+            "group" : "daily_actions",
+            "captions": [
+                "A person crumples up paper."
+            ]
+        },
+        {
+            "action": "play magic cube",
+            "tag" : "A084",
+            "group" : "daily_actions",
+            "captions": [
+                "A person plays with a Rubik's cube."
+            ]
+        },
+        {
+            "action": "apply cream on face",
+            "tag" : "A085",
+            "group" : "daily_actions",
+            "captions": [
+                "A person applies cream to their face."
+            ]
+        },
+        {
+            "action": "apply cream on hand",
+            "tag" : "A086",
+            "group" : "daily_actions",
+            "captions": [
+                "A person applies cream to their hand."
+            ]
+        },
+        {
+            "action": "put on bag",
+            "tag" : "A087",
+            "group" : "daily_actions",
+            "captions": [
+                "A person puts on a bag."
+            ]
+        },
+        {
+            "action": "take off bag",
+            "tag" : "A088",
+            "group" : "daily_actions",
+            "captions": [
+                "A person takes off a bag."
+            ]
+        },
+        {
+            "action": "put object into bag",
+            "tag" : "A089",
+            "group" : "daily_actions",
+            "captions": [
+                "A person puts an object into a bag."
+            ]
+        },
+        {
+            "action": "take object out of bag",
+            "tag" : "A090",
+            "group" : "daily_actions",
+            "captions": [
+                "A person takes an object out of a bag."
+            ]
+        },
+        {
+            "action": "open a box",
+            "tag" : "A091",
+            "group" : "daily_actions",
+            "captions": [
+                "A person opens a box."
+            ]
+        },
+        {
+            "action": "move heavy objects",
+            "tag" : "A092",
+            "group" : "daily_actions",
+            "captions": [
+                "A person moves heavy objects."
+            ]
+        },
+        {
+            "action": "shake fist",
+            "tag" : "A093",
+            "group" : "daily_actions",
+            "captions": [
+                "A person shakes their fist."
+            ]
+        },
+        {
+            "action": "throw up cap/hat",
+            "tag" : "A094",
+            "group" : "daily_actions",
+            "captions": [
+                "A person throws their hat up in the air."
+            ]
+        },
+        {
+            "action": "capitulate",
+            "tag" : "A095",
+            "group" : "daily_actions",
+            "captions": [
+                "A person surrenders or gives up."
+            ]
+        },
+        {
+            "action": "cross arms",
+            "tag" : "A096",
+            "group" : "daily_actions",
+            "captions": [
+                "A person crosses their arms."
+            ]
+        },
+        {
+            "action": "arm circles",
+            "tag" : "A097",
+            "group" : "daily_actions",
+            "captions": [
+                "A person makes arm circles."
+            ]
+        },
+        {
+            "action": "arm swings",
+            "tag" : "A098",
+            "group" : "daily_actions",
+            "captions": [
+                "A person swings their arms."
+            ]
+        },
+        {
+            "action": "run on the spot",
+            "tag" : "A099",
+            "group" : "daily_actions",
+            "captions": [
+                "A person runs in place."
+            ]
+        },
+        {
+            "action": "butt kicks",
+            "tag" : "A100",
+            "group" : "daily_actions",
+            "captions": [
+                "A person does butt kicks."
+            ]
+        },
+        {
+            "action": "cross toe touch",
+            "tag" : "A101",
+            "group" : "daily_actions",
+            "captions": [
+                "A person does cross toe touches."
+            ]
+        },
+        {
+            "action": "side kick",
+            "tag" : "A102",
+            "group" : "daily_actions",
+            "captions": [
+                "A person does a side kick."
+            ]
+        },
+        {
+            "action": "yawn",
+            "tag" : "A103",
+            "group" : "medical_conditions",
+            "captions": [
+                "A person yawns."
+            ]
+        },
+        {
+            "action": "stretch oneself",
+            "tag" : "A104",
+            "group" : "medical_conditions",
+            "captions": [
+                "A person stretches."
+            ]
+        },
+        {
+            "action": "blow nose",
+            "tag" : "A105",
+            "group" : "medical_conditions",
+            "captions": [
+                "A person blows their nose."
+            ]
+        },
+        {
+            "action": "hit with object",
+            "tag" : "A106",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person hits with an object."
+            ]
+        },
+        {
+            "action": "wield knife",
+            "tag" : "A107",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person wields a knife."
+            ]
+        },
+        {
+            "action": "knock over",
+            "tag" : "A108",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person knocks something over."
+            ]
+        },
+        {
+            "action": "grab stuff",
+            "tag" : "A109",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person grabs something."
+            ]
+        },
+        {
+            "action": "shoot with gun",
+            "tag" : "A110",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person shoots with a gun."
+            ]
+        },
+        {
+            "action": "step on foot",
+            "tag" : "A111",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person steps on someone's foot."
+            ]
+        },
+        {
+            "action": "high-five",
+            "tag" : "A112",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person gives a high-five."
+            ]
+        },
+        {
+            "action": "cheers and drink",
+            "tag" : "A113",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person cheers and drinks."
+            ]
+        },
+        {
+            "action": "carry object",
+            "tag" : "A114",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person carries an object."
+            ]
+        },
+        {
+            "action": "take a photo",
+            "tag" : "A115",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person takes a photo."
+            ]
+        },
+        {
+            "action": "follow",
+            "tag" : "A116",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person follows someone."
+            ]
+        },
+        {
+            "action": "whisper",
+            "tag" : "A117",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person whispers."
+            ]
+        },
+        {
+            "action": "exchange things",
+            "tag" : "A118",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person exchanges things with someone."
+            ]
+        },
+        {
+            "action": "support somebody",
+            "tag" : "A119",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person supports someone."
+            ]
+        },
+        {
+            "action": "rock-paper-scissors",
+            "tag" : "A120",
+            "group" : "mutual_actions",
+            "captions": [
+                "A person plays rock-paper-scissors."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "task_split": "xsub",
+    "data_rep": "xyz",
+    "class_list": [
+        0,
+        7,
+        19,
+        22,
+        23,
+        40
+    ]
+}

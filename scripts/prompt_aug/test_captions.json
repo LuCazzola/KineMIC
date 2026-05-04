@@ -1,0 +1,83 @@
+{
+  "0": {
+    "action": "drink water",
+    "captions": [
+      "A person perform water.",
+      "Someone is performing water.",
+      "A person perform with water.",
+      "Someone perform water carefully.",
+      "A person performs drink water.",
+      "Someone does drink water.",
+      "A person performs weewee.",
+      "A person performs water system.",
+      "A person drink water.",
+      "Someone is drink watering."
+    ],
+    "lemmatized_captions": [
+      "a person perform water",
+      "someone be perform water",
+      "a person perform with water",
+      "someone perform water carefully",
+      "a person perform drink water",
+      "someone do drink water",
+      "a person perform weewee",
+      "a person performs water system",
+      "a person drink water",
+      "someone be drink watering"
+    ]
+  },
+  "1": {
+    "action": "eat meal",
+    "captions": [
+      "A person perform meal.",
+      "Someone is performing meal.",
+      "A person perform with meal.",
+      "Someone perform meal gently.",
+      "A person performs eat meal.",
+      "Someone does eat meal.",
+      "A person performs repast.",
+      "A person eat meal.",
+      "Someone is eat mealing.",
+      "An individual eat meal."
+    ],
+    "lemmatized_captions": [
+      "a person perform meal",
+      "someone be perform meal",
+      "a person perform with meal",
+      "someone perform meal gently",
+      "a person perform eat meal",
+      "someone do eat meal",
+      "a person performs repast",
+      "a person eat meal",
+      "someone be eat mealing",
+      "an individual eat meal"
+    ]
+  },
+  "2": {
+    "action": "brush teeth",
+    "captions": [
+      "A person perform teeth.",
+      "Someone is performing teeth.",
+      "A person perform with teeth.",
+      "Someone perform teeth carefully.",
+      "A person performs brush teeth.",
+      "Someone does brush teeth.",
+      "A person performs tooth.",
+      "A person performs dentition.",
+      "A person brush teeth.",
+      "Someone is brush teething."
+    ],
+    "lemmatized_captions": [
+      "a person perform teeth",
+      "someone be perform teeth",
+      "a person perform with teeth",
+      "someone perform teeth carefully",
+      "a person perform brush teeth",
+      "someone do brush teeth",
+      "a person perform tooth",
+      "a person performs dentition",
+      "a person brush teeth",
+      "someone be brush teethe"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+> NTU Labels ranked by estimated crowding (higher = more similar to HumanML3D):
+
+ rank  action_id              action_label               crowding_score
+   1      34                  a person nods their head.     0.923188   
+   2      30              a person points to something.     0.919823   
+   3      22                 a person waves their hand.     0.916557   
+   4      26                         a person jumps up.     0.913979   
+   5      39     a person crosses their hands in front.     0.912555   
+   6      41                         a person staggers.     0.911799   
+   7      23                  a person kicks something.     0.911215   
+   8       8                        a person stands up.     0.910141   
+   9       4                  a person drops something.     0.909185   
+  10      37                          a person salutes.     0.908300   
+  11       9                a person claps their hands.     0.906979   
+  12       6                 a person throws something.     0.904280   
+  13      38        a person puts their palms together.     0.903094   
+  14       5               a person picks something up.     0.902917   
+  15      11                 a person writes something.     0.901990   
+  16      48                  a person fans themselves.     0.901267   
+  17      42                       a person falls down.     0.898276   
+  18      25                             a person hops.     0.897300   
+  19      35                a person shakes their head.     0.894571   
+  20       7                        a person sits down.     0.891292   
+  21      33        a person rubs their hands together.     0.891125   
+  22      47                   a person feels nauseous.     0.890199   
+  23      10                  a person reads something.     0.889060   
+  24      21                        a person cheers up.     0.886791   
+  25      43                   a person has a headache.     0.885197   
+  26      16                 a person takes off a shoe.     0.884407   
+  27      24        a person reaches into their pocket.     0.884134   
+  28      45                    a person has back pain.     0.883842   
+  29      14               a person takes off a jacket.     0.876147   
+  30       1                      a person eats a meal.     0.875196   
+  31      15                   a person puts on a shoe.     0.872322   
+  32      27               a person makes a phone call.     0.871585   
+  33      44                   a person has chest pain.     0.871162   
+  34      28           a person plays with their phone.     0.869516   
+  35       0                     a person drinks water.     0.869322   
+  36      20                  a person takes off a hat.     0.865816   
+  37      18                a person takes off glasses.     0.864255   
+  38      36                 a person wipes their face.     0.859676   
+  39      46                    a person has neck pain.     0.859204   
+  40      12                   a person tears up paper.     0.855314   
+  41      13                 a person puts on a jacket.     0.855278   
+  42      32               a person checks their watch.     0.851793   
+  43      40                a person sneezes or coughs.     0.849527   
+  44      19                    a person puts on a hat.     0.847278   
+  45      17                  a person puts on glasses.     0.844339   
+  46      31                   a person takes a selfie.     0.832836   
+  47      29              a person types on a keyboard.     0.827834   
+  48       3               a person brushes their hair.     0.823681   
+  49       2              a person brushes their teeth.     0.802197   
+
+> Summary Statistics:
+   Total labels: 49
+   Highest crowding: 0.923188 (a person nods their head.)
+   Lowest crowding: 0.802197 (a person brushes their teeth.)
+   Mean crowding: 0.881178
+   Median crowding: 0.885197
